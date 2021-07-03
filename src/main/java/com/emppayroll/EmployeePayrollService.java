@@ -1,7 +1,6 @@
 /**
  * ***************************************************** 
- * Purpose: To watch particular directory along with all
- *             Files and Sub Directories
+ * Purpose: to store Employee Payroll into a File
  *                       
  * @author Piyush Shaw
  * @version 1.0
