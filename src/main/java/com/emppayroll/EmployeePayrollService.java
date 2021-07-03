@@ -1,14 +1,17 @@
 /**
  * ************************** 
- * Purpose: The purpose of the class is to Read and Write Employee Payroll to 
- *             a Console
+ * Purpose: To demonstrate File Operations like
+ *   -Check File Exists
+ *   - Delete File and Check File Not Exist
+ *   - Create Directory
+ *   - Create Empty File
+ *   - List Files, Directories as well as Files with Extension
  *                       
  * @author Piyush Shaw
  * @version 1.0
  * @since 28-06-2021
  * **************************
  */
-
 
 package com.emppayroll;
 
