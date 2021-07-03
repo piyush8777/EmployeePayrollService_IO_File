@@ -63,4 +63,5 @@ public class NIOFileAPITest {
 	        Files.list(dir).filter(Files::isRegularFile).forEach(System.out::println);
 	        new Java8WatchServiceExample(dir).processEvents();
 	    }
+	    
     }
